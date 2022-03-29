@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0X0emgD9ygYDS+8kayMyO35XxFFx0a18mGdfmTVuBJissHL09dxbwFRMZevBp7c6gHtfsmGndOI95bhFG9CNWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\task-Interface_Upcasting_method\\task-Interface_Upcasting_method\\task-Interface_Upcasting_method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\bin\Debug\netcoreapp3.1\task-Interface_Upcasting_method.exe
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\bin\Debug\netcoreapp3.1\task-Interface_Upcasting_method.deps.json
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\bin\Debug\netcoreapp3.1\task-Interface_Upcasting_method.runtimeconfig.json
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\bin\Debug\netcoreapp3.1\task-Interface_Upcasting_method.runtimeconfig.dev.json
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\bin\Debug\netcoreapp3.1\task-Interface_Upcasting_method.dll
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\bin\Debug\netcoreapp3.1\task-Interface_Upcasting_method.pdb
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\obj\Debug\netcoreapp3.1\task-Interface_Upcasting_method.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\obj\Debug\netcoreapp3.1\task-Interface_Upcasting_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\obj\Debug\netcoreapp3.1\task-Interface_Upcasting_method.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\obj\Debug\netcoreapp3.1\task-Interface_Upcasting_method.AssemblyInfo.cs
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\obj\Debug\netcoreapp3.1\task-Interface_Upcasting_method.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\obj\Debug\netcoreapp3.1\task-Interface_Upcasting_method.dll
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\obj\Debug\netcoreapp3.1\task-Interface_Upcasting_method.pdb
+C:\Users\user\Desktop\task-Interface_Upcasting_method\task-Interface_Upcasting_method\obj\Debug\netcoreapp3.1\task-Interface_Upcasting_method.genruntimeconfig.cache
